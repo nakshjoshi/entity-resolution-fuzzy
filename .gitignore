@@ -1,0 +1,9 @@
+/models
+/dataset
+/.venv
+.DS_Store
+# generated data (kept in S3)
+work/
+output/candidate_pairs.tsv
+__pycache__/
+*.pyc
