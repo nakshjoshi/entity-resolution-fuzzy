@@ -1,0 +1,6 @@
+# Pinned to the versions the M3 runs used (transformers 5.x drops Trainer(tokenizer=...)).
+transformers==4.57.6
+peft==0.21.0
+accelerate==1.15.0
+sentencepiece>=0.2.0
+protobuf>=4.0.0
